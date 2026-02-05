@@ -1,5 +1,7 @@
-# Real-Time Quiz (Multiplayer Challenge) 🏆🎮
+# Overview video link: 
+https://youtu.be/gnZz27I-r_o
 
+# Real-Time Quiz (Multiplayer Challenge) 🏆🎮
 A high-performance, real-time multiplayer quiz application built with Flutter and Firebase Realtime Database. This project demonstrates a robust, architecture-first approach to building distributed, synchronized user experiences.
 
 ## 🏗️ Architecture
@@ -115,6 +117,13 @@ lib/
     -   **Social Integration**: Real identity auth (Google/Apple).
     -   **Quiz Database**: Integration with Open Trivia DB or custom creation tool.
     -   **Sound Effects**: Native sound pool for haptic and audio feedback.
+
+## 🧠 AI Usage & System Design
+
+This project was developed with AI assistance, with a focus on maintainable Clean Architecture and real-time stability.
+
+-   **[AI Collaboration Log](file:///d:/development/real_time_quiz/docs/ai_log.md)**: Detailed log of AI-assisted development, including prompts, key issues found, and stability fixes.
+-   **[System Design](file:///d:/development/real_time_quiz/docs/system_design.md)**: Overview of the architecture, data models, and Firebase security rules.
 
 ---
 
